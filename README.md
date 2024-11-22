@@ -3,6 +3,9 @@
 
 KILLNET-BOMBER is a Bash code Which can help you to prank your friends. By using this tool You Can Send huge amount of sms , call to your friends.
 
+<h2 align="center"> SCREENSHOT </h2>
+<img align="center" src="https://i.ibb.co/cbTD55r/KILLNET-BOMBER-V3.png"><br>
+
 
 <p align="center">
 <b>─ ᴠɪsɪᴛᴏʀs ─</b><br>
