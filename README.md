@@ -37,9 +37,6 @@ bash setup.sh
 pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install python ; pkg install python-pip ; pkg install colorama ; git clone https://GitHub.com/KillnetBomber/KILLNET-BOMBER ; cd KILLNET-BOMBER ; bash setup.sh ; python main.py
 ```
 
-## Disclaimer
-
-This tool is for educational purposes only. The developers are not responsible for any misuse. Please use it responsibly and avoid targeting individuals or causing harm.
     
 ## FAQ
 
@@ -47,15 +44,19 @@ This tool is for educational purposes only. The developers are not responsible f
 
 Only Indian Bomber but International Bomber Coming Soon.
 
-## Developer
 
-- [@YasirAkhtar](https://www.github.com/yasirakhtar)
+### Visitors :
 
+![Visitor Count](https://profile-counter.glitch.me/YasirAkhtar/count.svg)
 
 ## Feedback
 
 If you have any feedback, please reach out to us at https://t.me/ZeoXpro
 
-### Visitors :
+## Developer
 
-![Visitor Count](https://profile-counter.glitch.me/YasirAkhtar/count.svg)
+- [@YasirAkhtar](https://www.github.com/yasirakhtar)
+
+## Disclaimer
+
+This tool is strictly for <b>educational and testing purposes</b>. Misuse of this tool can lead to legal consequences. Use responsibly. The developers take no responsibility for unethical usage.
