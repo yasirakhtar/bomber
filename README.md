@@ -19,9 +19,9 @@ KILLNET-BOMBER is a Bash code Which can help you to prank your friends. By using
 
 
 
-##  How To Install ?
+##  Termux Installation
 
-### **Termux Installation**
+**Install KILLNET-BOMBER in Termux**
 
 ```bash
 pkg update && pkg upgrade
@@ -38,7 +38,7 @@ bash setup.sh
 ```bash
 pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install python ; pkg install python-pip ; pkg install colorama ; git clone https://GitHub.com/KillnetBomber/KILLNET-BOMBER ; cd KILLNET-BOMBER ; bash setup.sh ; python main.py
 ```
-
+<br/>
 
 ## 🚀 How to Use
 
@@ -49,7 +49,7 @@ python main.py
 
 #### 2. Enter the Password:
 
-Get the password from our Telegram channel: [@KillnetBomber](https://t.me/KillnetBomber).
+Get the password from our Telegram channel: **[@KillnetBomber](https://t.me/KillnetBomber)**.
 
 
 #### 3. Choose Your Option
@@ -67,7 +67,7 @@ Get the password from our Telegram channel: [@KillnetBomber](https://t.me/Killne
 - To stop the bomber at any time, press `Ctrl+C` on your keyboard.
 
 
-<br>
+<br/>
     
 ## FAQ
 
