@@ -5,7 +5,7 @@ KILLNET-BOMBER is a Bash code Which can help you to prank your friends. By using
 
 
 <p align="center">
-<b>ᴠɪsɪᴛᴏʀs</b><br>
+<b>─ ᴠɪsɪᴛᴏʀs ─</b><br>
 <img align="middle" src="https://profile-counter.glitch.me/YasirAkhtar/count.svg" /></p>
 
 
@@ -42,22 +42,29 @@ pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install pyth
 
 ## 🚀 How to Use
 
-### Run the Script:
+#### 1. Run the Script:
 ```bash
 python main.py
 ```
 
-### Enter the Password:
+#### 2. Enter the Password:
 
 Get the password from our Telegram channel: [@KillnetBomber](https://t.me/KillnetBomber).
 
-### Start Bombing:
 
-- Choose SMS or Call bombing.
-- Enter the target number.
-- Let the tool do its job!
+#### 3. Choose Your Option
 
-### Choose Your Option
+- Sms-Bombing.
+- Call-Bombing.
+- Protect Number.
+- Update.
+- Exit.
+
+
+##### 4. Enter the target number.
+##### Boom 💥.
+
+
 
     
 ## FAQ
