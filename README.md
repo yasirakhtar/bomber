@@ -62,10 +62,12 @@ Get the password from our Telegram channel: [@KillnetBomber](https://t.me/Killne
 
 
 ##### 4. Enter the target number.
-##### Boom 💥.
+### Boom 💥.
+
+- To stop the bomber at any time, press `Ctrl+C` on your keyboard.
 
 
-
+<br>
     
 ## FAQ
 
