@@ -19,9 +19,9 @@ KILLNET-BOMBER is a Bash code Which can help you to prank your friends. By using
 
 
 
-##  Termux Installation
+##  How To Install ?
 
-Install KILLNET-BOMBER in Termux
+### **Termux Installation**
 
 ```bash
 pkg update && pkg upgrade
