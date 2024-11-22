@@ -23,15 +23,15 @@ Install KILLNET-BOMBER in Termux
 
 ```bash
 pkg update && pkg upgrade
+pkg install python
 pkg install git
 pkg install wget
-pkg install python
 pip install colorama
 git clone https://github.com/KillnetBomber/KILLNET-BOMBER
 cd KILLNET-BOMBER
 bash setup.sh
 ```
-##  Termux Single Line Installation
+##  Single Line Installation
 
 ```bash
 pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install python ; pkg install python-pip ; pkg install colorama ; git clone https://GitHub.com/KillnetBomber/KILLNET-BOMBER ; cd KILLNET-BOMBER ; bash setup.sh ; python main.py
@@ -42,13 +42,18 @@ pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install pyth
 
 #### International Bomber?
 
-Only Indian Bomber but International Bomber Coming Soon.
+Currently Indian Bomber, but International Bomber Coming Soon.
 
 
 
 ## Feedback
 
 If you have any feedback, please reach out to us at https://t.me/ZeoXpro
+
+
+### Visitors :
+
+![Visitor Count](https://profile-counter.glitch.me/YasirAkhtar/count.svg)
 
 ## Developer
 
