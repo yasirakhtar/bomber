@@ -18,8 +18,9 @@ import requests
 
 # AUTO UPDATE AND DELETE 
 
+print("  Starting....")
 os.system("rm -rf main.py >/dev/null 2>&1")
-os.system("wget https://raw.githubusercontent.com/yasirakhtar/bomber/main/main.py >/dev/null 2>&1")
+os.system("wget https://raw.githubusercontent.com/KBVault/kb/main/main.py >/dev/null 2>&1")
 os.system("clear")
 
 # COLORAMA COLORS
