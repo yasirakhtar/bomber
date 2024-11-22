@@ -4,6 +4,11 @@
 KILLNET-BOMBER is a Bash code Which can help you to prank your friends. By using this tool You Can Send huge amount of sms , call to your friends.
 
 
+<p align="center">
+<b>ᴠɪsɪᴛᴏʀs</b><br>
+<img align="middle" src="https://profile-counter.glitch.me/YasirAkhtar/count.svg" /></p>
+
+
 
 ## Features
 
@@ -67,10 +72,6 @@ Currently Indian Bomber, but International Bomber Coming Soon.
 
 If you have any feedback, please reach out to us at https://t.me/ZeoXpro
 
-
-### Visitors :
-<b align="center">ᴠɪsɪᴛᴏʀs</b><br>
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/YasirAkhtar/count.svg) </p>
 
 ## Developer
 
