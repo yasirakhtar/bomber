@@ -1,102 +1,96 @@
-<h2> KILLNET BOMBER V3 </h2>
-<img src="https://i.ibb.co/cbTD55r/KILLNET-BOMBER-V3.png"><br>
 
-* `💣 📱 💀`
+# KILLNET-BOMBER
 
-* `A Superfast SMS & Call bomber for Linux And Termux !`
-
-<br>
-
-<h2> DISCLAIMER </h2>
-
-This tool is for educational purposes only ! Don't use this to take revenge
-I will not be responsible for any misuse 
-
-<br>
+KILLNET-BOMBER is a Bash code Which can help you to prank your friends. By using this tool You Can Send huge amount of sms , call to your friends.
 
 
-<h2> FEATURES </h2>
-
-* `Send unlimited message`
-
-* `Send unlimited call`
-
-* `Send custom message`
-
-* `Working with all Operators/Carriers`
-
-* `No missing Api issues`
-
-* `Supports newest Android also`
-
-* `No balance will be deducted`
-   
-
-<br>
-
-<h2> TESTED ON </h2>
-
-* `Termux`
-* `Kali Linux`
-* `Ubuntu`
-* `Parrot Os`
-* `Kali Nethunter`
-
-<br>
-
-<h2> TERMUX ISSUE </h2>
-
-* `Termux App is no longer recieving updates on playstore`
-
-* `due to recently introduced Google Play policy `
-<br>
-
-DON'T WORRY
-
-* `We have a solution for that !`
-
-<br>
+<p align="center">
+<b>─ ᴠɪsɪᴛᴏʀs ─</b><br>
+<img align="middle" src="https://profile-counter.glitch.me/YasirAkhtar/count.svg" /></p>
 
 
-You can download the latest termux app and install it
 
-From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
+## Features
 
-<br>
+- Send unlimited message
+- Send unlimited call
+- Protect Number [Adding Soon]
+- Colourful interface
+- Working with all Operators/Carriers
+- Supports newest Android also
+- **Free of Cost !**
 
-<h2> NOTE </h2>
 
-* `This bomber only works in India !!`
 
+##  Termux Installation
+
+**Install KILLNET-BOMBER in Termux**
+
+```bash
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+pkg install wget
+pip install colorama
+git clone https://github.com/KillnetBomber/KILLNET-BOMBER
+cd KILLNET-BOMBER
+bash setup.sh
+```
+##  Single Line Installation
+
+```bash
+pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install python ; pkg install python-pip ; pkg install colorama ; git clone https://GitHub.com/KillnetBomber/KILLNET-BOMBER ; cd KILLNET-BOMBER ; bash setup.sh ; python main.py
+```
 <br/>
 
-<h2> TERMUX USAGE </h2>
- 
-Update the packages
-```bash
-pkg up -y
-```
-Install some dependencies
-```bash
-pkg install git wget python3 -y
-```
-Clone the repository
-```bash
-https://github.com/killnet108/KILLNET-BOMBER
-```
-Go to KILLNET-BOMBER directory
-```bash
-cd KILLNET-BOMBER
-```
-Run the script
+## 🚀 How to Use
+
+#### 1. Run the Script:
 ```bash
 python main.py
 ```
-<br>
 
-<h2> TELEGRAM CHANNEL </h2>
+#### 2. Enter the Password:
 
-* `All updates of KILLNET will be posted here !`
+Get the password from our Telegram channel: **[@KillnetBomber](https://t.me/KillnetBomber)**.
 
-* <a href="https://t.me/killnetbomber">JOIN CHANNEL </a>
 
+#### 3. Choose Your Option
+
+- Sms-Bombing.
+- Call-Bombing.
+- Protect Number.
+- Update.
+- Exit.
+
+
+##### 4. Enter the target number.
+### Boom 💥.
+
+- To stop the bomber at any time, press `Ctrl+C` on your keyboard.
+
+
+<br/>
+    
+## FAQ
+
+#### International Bomber?
+
+Currently Indian Bomber, but International Bomber Coming Soon.
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at https://t.me/ZeoXpro
+<br />
+
+## Developer
+
+- [@YasirAkhtar](https://www.github.com/YasirAkhtar)
+
+<br/>
+
+## Disclaimer 
+
+> This tool is strictly for <b>educational and testing purposes</b>. Misuse of this tool can lead to legal consequences. Use responsibly. The developers take no responsibility for unethical usage.
