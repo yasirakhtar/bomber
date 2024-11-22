@@ -45,9 +45,6 @@ pkg upgrade ; pkg update ; pkg install git ; pkg install wget ; pkg install pyth
 Only Indian Bomber but International Bomber Coming Soon.
 
 
-### Visitors :
-
-![Visitor Count](https://profile-counter.glitch.me/YasirAkhtar/count.svg)
 
 ## Feedback
 
